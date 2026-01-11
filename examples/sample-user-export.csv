@@ -1,0 +1,5 @@
+DisplayName,PrimarySmtpAddress
+John Doe,john.doe@example.com
+Jane Smith,jane.smith@example.com
+Shared Mailbox 1,shared.mailbox1@example.com
+Service Account,service.account@example.com
